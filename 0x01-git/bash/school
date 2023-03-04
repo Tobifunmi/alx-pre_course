@@ -1,4 +1,3 @@
 Fourth commit
 #!/bin/bash
-echo "School"
-Good
+echo "The school is open!"
